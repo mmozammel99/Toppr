@@ -4,6 +4,9 @@
 body{
     font-family:'Poppins', sans-serif;
 }
+body p{
+    color: #777777;
+}
 .overlay-dark{
     filter: brightness(40%);
 }
